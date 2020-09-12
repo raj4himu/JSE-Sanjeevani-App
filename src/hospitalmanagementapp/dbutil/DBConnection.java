@@ -53,8 +53,6 @@ public class DBConnection {
         {
             JOptionPane.showMessageDialog(null,"Problem in closing the Connection!"+e);
             e.printStackTrace();
-        }
-        
-    }
-    
+        } 
+    }  
 }
